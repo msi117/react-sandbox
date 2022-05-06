@@ -1,7 +1,8 @@
+import UseRefExample1 from "./components/UseRefExample1";
 function App() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <UseRefExample1 />
     </div>
   );
 }
